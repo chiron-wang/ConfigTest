@@ -1,0 +1,2 @@
+# ConfigTest
+xcconfig test
