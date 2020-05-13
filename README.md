@@ -159,13 +159,17 @@ if let name = Bundle.main.infoDictionary?["CT_APP_NAME"] as? String {
 ## Reference
 
 1. 如何使用Xcode Configuration 管理 iOS Apps 不同構建版本
+
 https://bit.ly/2SVPfRu
 
 2. How to Use Xcode Targets to Manage Development and Production Builds
+
 https://bit.ly/2LlFHLt
 
 3. 從程式讀取 Info.plist 的內容，比方 version & API key
+
 https://bit.ly/2YXKmLU
 
 4. 專案參考範例
+
 https://github.com/chiron-wang/ConfigTest
