@@ -1,0 +1,13 @@
+//
+//  staging-Config.xcconfig
+//  ConfigTest
+//
+//  Created by mikewang on 2020/5/12.
+//  Copyright © 2020 chiron. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CT_APP_NAME = CT Config Test
+CT_APPVERSION = 1.0.1

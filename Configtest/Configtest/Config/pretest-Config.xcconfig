@@ -1,0 +1,14 @@
+//
+//  pretest-Config.xcconfig
+//  ConfigTest
+//
+//  Created by mikewang on 2020/5/13.
+//  Copyright © 2020 chiron. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CT_APP_NAME = CT Pretest Config Test
+CT_APPVERSION = 1.0
+CT_APP_BUNDLE_ID = com.staging.config.test

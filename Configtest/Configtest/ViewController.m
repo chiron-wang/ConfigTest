@@ -16,7 +16,16 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    NSString *name = [NSBundle.mainBundle.infoDictionary objectForKey:@"AppName"];
+    NSLog(@"%@", name); // CT Config Test
+    
+    UILabel *nameLabel = [UILabel new];
+    nameLabel.text = name;
+    
+    [self.view addSubview:nameLabel];
+    
+    
 }
 
 
